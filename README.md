@@ -1,5 +1,69 @@
-# Getting Started with Create React App
+![](https://i.imgur.com/xG74tOh.png)
 
+# Project React - Cubos Player
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Kauanedev/cubos-player?color=%2304D361">
+  
+  <a href="https://github.com/Kauanedev/cubos-player/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kauanedev/cubos-player">
+  </a>
+
+   <a href="https://Kauanedev/">
+    <img alt="Feito por Kauane Santos" src="https://img.shields.io/badge/feito-por%20Kauanedev-D818A5">
+   </a>
+
+
+<img src='./src/assets/CubosPlayer.jpeg'/>
+
+<h4 align="center"> 
+🎧Cubos Player🎶
+ 
+</h4>
+
+<p align="center">
+	 <img alt="Status Done" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
+</p>
+
+<p align="center">
+ <a href="#about">About</a> •
+ <a href="#functionalities">Functionalities</a> •
+ <a href="#tecnologies">Tecnologies</a>  
+</p>
+<hr/>
+
+## 💻 About the project
+<p id='about'>
+🔉 Cubos Player - Its a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
+I even added different shades of purple, witch is my favorite color.
+
+This was a practical class and the goal was to develop a music player using  [this](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?node-id=0%3A1)  layout on figma.
+
+if you would like to import the figma file on tour computer, this is its name : `Cubos Player.fig`
+</p>
+
+## ⚙️ Functionalities
+<h1 id=functionalities></h1>
+                         
+- [x] Choose your song <br/>
+- [x] Start by pressing the "play" button<br/>
+- [x] Pause by pressing the "pause" button<br/>
+- [x] Change your song by pressing the "previous" or the "next" button<br/>
+- [x] See which artist and music is currently playing by looking at the bottom left corner<br/>
+
+
+## 🛠 Tecnologies
+<p id="tecnologies">
+For this project I used :	
+</p>
+
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>	
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +132,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###### tags: `módulo 3` `front-end` `React`
