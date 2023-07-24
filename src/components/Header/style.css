@@ -1,0 +1,42 @@
+header {
+    width: 100vw;
+    height: 98px;
+
+
+    background: linear-gradient(180deg, #0C0505 0%, #3e3341 47.92%, #653969 100%);
+    background-repeat: no-repeat;
+
+    border-bottom: 1px solid rgb(119, 119, 119);
+}
+
+.logo img {
+    width: 292px;
+    height: 60px;
+
+    margin-top: 20px;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    gap: 3px;
+
+
+    margin-left: 1400px;
+    margin-top: -53px;
+}
+
+h7 {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+
+    color: white;
+}
+
+.profile img {
+    height: 40px;
+    border-radius: 50%;
+}
