@@ -22,7 +22,7 @@
 </h4>
 
 <p align="center">
-	 <img alt="Status Done" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
+	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
 </p>
 
 <p align="center">
