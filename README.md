@@ -37,7 +37,7 @@
 🔉 Cubos Player - Its a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
 I even added different shades of purple, witch is my favorite color.
 
-This was a practical class and the goal was to develop a music player using  [this](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?node-id=0%3A1)  layout on figma.
+This was a challenge that represented the end of a phase from cubos academy where I learned more about react and the goal was to develop a music player using  [this](https://www.figma.com/file/2RRh9uG0Mjj6p4p6ekVnNp/Cubos-Player?node-id=0%3A1)  layout on figma.
 
 if you would like to import the figma file on tour computer, this is its name : `Cubos Player.fig`
 </p>
