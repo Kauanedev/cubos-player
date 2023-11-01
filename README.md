@@ -34,8 +34,10 @@
 </p>
 <hr/>
 
+<p  id='about'>
 ## 💻 About the project
-<p id='about'>
+</p>
+<p>
 🔉 Cubos Player - Its a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
 I even added different shades of purple, witch is my favorite color.
 
@@ -44,8 +46,9 @@ This was a challenge and opportunity to learn more about react and the goal was 
 if you would like to import the figma file on tour computer, this is its name : `Cubos Player.fig`
 </p>
 
+<p id=functionalities>
 ## ⚙️ Functionalities
-<h1 id=functionalities></h1>
+</p>
                          
 - [x] Choose your song <br/>
 - [x] Start by pressing the "play" button<br/>
@@ -54,10 +57,10 @@ if you would like to import the figma file on tour computer, this is its name : 
 - [x] See which artist and music is currently playing by looking at the bottom left corner<br/>
 
 
-## 🛠 Tecnologies
 <p id="tecnologies">
-For this project I used :	
+## 🛠 Tecnologies
 </p>
+For this project I used :	
 
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>	
@@ -68,15 +71,15 @@ For this project I used :
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🚀 Deployed Application
 <p id="deploy">
+## 🚀 Deployed Application
+</p>
 Visit https://cubosplayer.netlify.app/ 
-</p>
 
-## 🏃‍♀️ Run the project
 <p id="run">
- Clone this repository:
+## 🏃‍♀️ Run the project
 </p>
+ Clone this repository:
 
 ### `git@github.com:Kauanedev/cubos-player.git`
 
