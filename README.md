@@ -34,10 +34,8 @@
 </p>
 <hr/>
 
-<p  id='about'>
 ## 💻 About the project
-</p>
-<p>
+<p id="about">
 🔉 Cubos Player - Its a project developed in one of my classes at Cubos Academy with some of my one features.<br/>
 I even added different shades of purple, witch is my favorite color.
 
@@ -46,8 +44,8 @@ This was a challenge and opportunity to learn more about react and the goal was 
 if you would like to import the figma file on tour computer, this is its name : `Cubos Player.fig`
 </p>
 
-<p id=functionalities>
 ## ⚙️ Functionalities
+<p id=functionalities>
 </p>
                          
 - [x] Choose your song <br/>
@@ -57,8 +55,8 @@ if you would like to import the figma file on tour computer, this is its name : 
 - [x] See which artist and music is currently playing by looking at the bottom left corner<br/>
 
 
-<p id="tecnologies">
 ## 🛠 Tecnologies
+<p id="tecnologies">
 </p>
 For this project I used :	
 
@@ -71,13 +69,13 @@ For this project I used :
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<p id="deploy">
 ## 🚀 Deployed Application
+<p id="deploy">
 </p>
 Visit https://cubosplayer.netlify.app/ 
 
-<p id="run">
 ## 🏃‍♀️ Run the project
+<p id="run">
 </p>
  Clone this repository:
 
