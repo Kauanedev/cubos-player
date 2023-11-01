@@ -28,7 +28,9 @@
 <p align="center">
  <a href="#about">About</a> •
  <a href="#functionalities">Functionalities</a> •
- <a href="#tecnologies">Tecnologies</a>  
+ <a href="#tecnologies">Tecnologies</a>  •
+<a href="#deploy">Deployed Application</a> •
+<a href="#run">Run the project</a>
 </p>
 <hr/>
 
@@ -66,10 +68,23 @@ For this project I used :
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 🚀 Deployed Application
+<p id="deploy">
+Visit https://cubosplayer.netlify.app/ 
+</p>
+
+## 🏃‍♀️ Run the project
+<p id="run">
+ Clone this repository:
+</p>
+
+### `git@github.com:Kauanedev/cubos-player.git`
+
+
+Run this code to acess the project before starting:
+### `cd cubos-player`
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
